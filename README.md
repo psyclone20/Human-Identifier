@@ -27,5 +27,7 @@ opencv_traincascade -data output -vec person.vec -bg bg.txt -numPos 124 -numNeg 
 ```
 Feel free to tweak the last 5 parameters as per your requirements.
 
+If you just want the final output file, you can find it in _output/person-cascade.xml_
+
 # Output Sample
 ![output sample](https://github.com/psyclone20/Human-Identifier/blob/master/output/sample.jpg)
