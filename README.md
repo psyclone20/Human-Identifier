@@ -26,3 +26,6 @@ Copy all the files to same location as the _opencv_traincascade_ file and run th
 opencv_traincascade -data output -vec person.vec -bg bg.txt -numPos 124 -numNeg 1047 -numStages 10 -h 64 -w 64
 ```
 Feel free to tweak the last 5 parameters as per your requirements.
+
+# Output Sample
+![output sample](https://github.com/psyclone20/Human-Identifier/blob/master/output/sample.jpg)
