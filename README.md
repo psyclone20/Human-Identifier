@@ -1,4 +1,4 @@
-# Human-Identifier
+# Human Identifier
 Contains sample files for training [OpenCV's cascade classifier](https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html) to detect human outlines.
 
 The samples are in-game screenshots from [Counter-Strike](https://en.wikipedia.org/wiki/Counter-Strike) 1.6.
